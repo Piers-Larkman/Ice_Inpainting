@@ -1,0 +1,6 @@
+# Virtual environment
+std-env/
+
+# Datasets and models (optional)
+Data/
+Checkpoints/
