@@ -1,0 +1,6 @@
+{
+  "trainingData": "Data/Model_Training_Data/Ice",
+  "model":"CustomNet_2Channel",
+  "learningRate":0.002,
+  "epochs": 60
+}
