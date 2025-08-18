@@ -1,7 +1,7 @@
 # LA-ICP-MS Inpainting README
 This repository contains code that performs inpainting on LA-ICP-MS data
 
-**Link to paper: TBC**
+**Paper link/DOI: [https://doi.org/10.1039/D5AN00325C](https://doi.org/10.1039/D5AN00325C) **
 
 ## Basic use
 
